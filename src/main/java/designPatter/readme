@@ -1,0 +1,11 @@
+设计模式：
+1、工厂模式 factory
+2、单例 singleton
+3、原型 propotype
+4、构建者 builder
+
+5、代理模式 proxy
+6、门面 facade
+7、装饰 decorator 包装 wrapper  煎饼
+8、享元 flyweight 缓存池
+9、组合 component 文件 文价夹
